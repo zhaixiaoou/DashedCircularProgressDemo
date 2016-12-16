@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CircleView</string>
+    <string name="progress_continue_true">连续增加</string>
+    <string name="progress_continue_false">从头开始</string>
+    <string name="inner_circle_show">显示内环</string>
+    <string name="inner_circle_hide">隐藏内环</string>
+    <string name="head_show">显示小圆点</string>
+    <string name="head_hide">隐藏小圆点</string>
+    <string name="inner_progress_show">显示内环进度</string>
+    <string name="inner_progress_hide">隐藏内环进度</string>
+</resources>
