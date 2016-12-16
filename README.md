@@ -5,4 +5,4 @@ DashedCircularProgressDemo 圆形齿轮进度
 
 话不多说，先上效果图</br>
 以下是连续增加的效果
-![image](https://github.com/zhaixiaoou/DashedCircularProgressDemo/blob/master/screenshot.gif)
+![image](https://github.com/zhaixiaoou/DashedCircularProgressDemo/blob/master/dashedcircularprogress.gif)
