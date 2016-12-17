@@ -12,4 +12,4 @@ DashedCircularProgressDemo 圆形齿轮进度
 ![image](https://github.com/zhaixiaoou/DashedCircularProgressDemo/blob/master/screenshots/IMG_20161217_003628.jpg)</br>
 隐藏里面圆环进度：</br>
 ![image](https://github.com/zhaixiaoou/DashedCircularProgressDemo/blob/master/screenshots/IMG_20161217_003708.jpg)</br>
-/***************************华丽丽的分割线 后面更新敬请期待***********************************/
+/***************************华丽丽的分割线 后面更新敬请期待 后面我会增加对一些属性的说明***********************************/
