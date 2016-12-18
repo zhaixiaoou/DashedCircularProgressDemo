@@ -123,6 +123,7 @@ public class DashedCircularProgress extends RelativeLayout {
         progressColor = attributes.getColor(R.styleable.DashedCircularProgress_progress_color,
                 progressColor);
         max = attributes.getFloat(R.styleable.DashedCircularProgress_max, max);
+        min = attributes.getFloat(R.styleable.DashedCircularProgress_min, min);
         duration = attributes.getInt(R.styleable.DashedCircularProgress_duration, duration);
         isInitCircleProgress = attributes.getBoolean(R.styleable.DashedCircularProgress_circle_progress,isInitCircleProgress);
         isInnerCircle   = attributes.getBoolean(R.styleable.DashedCircularProgress_inner_circle,isInnerCircle);
@@ -136,6 +137,7 @@ public class DashedCircularProgress extends RelativeLayout {
         isAnimation = attributes.getBoolean(R.styleable.DashedCircularProgress_is_animation,isAnimation);
         isHead      = attributes.getBoolean(R.styleable.DashedCircularProgress_is_head,isHead);
         initPainters();
+        begin = min;
     }
 
     @Override
